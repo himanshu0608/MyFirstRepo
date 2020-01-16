@@ -1,0 +1,26 @@
+    1  ls
+    2  cd GitDemo/
+    3  ll
+    4  git branch
+    5  git remote add demo https://github.com/himanshu0608/MyFirstRepo.git
+    6  git push -u demo master 
+    7  git push -u demo master 
+    8  git branch
+    9  git checkout DevOps 
+   10  ll
+   11  git commit -m "change"
+   12  git checkout master 
+   13  git commit -m "...changes..."
+   14  git remote add demo https://github.com/himanshu0608/MyFirstRepo.git
+   15  git remote add demo1 https://github.com/himanshu0608/MyFirstRepo.git
+   16  git push -u demo1 master
+   17  git push -u demo1 master
+   18  git push -u demo1 master
+   19  git pull demo1 master 
+   20  git branch
+   21  ls
+   22  git pull demo1 NewBranch
+   23  ls
+   24  git branch
+   25  history
+   26  history >> history.txt
